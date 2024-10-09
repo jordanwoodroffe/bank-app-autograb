@@ -23,7 +23,7 @@ This is a simple bank application built with Node.js and TypeScript. It allows a
 - **TypeScript**: TypeScript is used for type safety and better code maintainability.
 - **Jest**: Jest is used for testing to ensure all functionalities work as expected.
 - **No Persistence**: As per the requirements, no database or persistence layer is implemented. All data is stored in memory.
-- **Resetting Users**: The `resetUsers` function is used to reset the users array before each test to ensure isolation between tests.
+- **Resetting Users**: The `deleteAllUsers` function is used to reset the users array before each test to ensure isolation between tests.
 - **Boolean responses**: Boolean responses are used to indicate whether the operation was successful.
 
 ## Setup
