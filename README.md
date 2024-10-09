@@ -26,7 +26,7 @@ This is a simple bank application built with Node.js and TypeScript. It allows a
 - **Resetting Users**: The `resetUsers` function is used to reset the users array before each test to ensure isolation between tests.
 - **Boolean responses**: Boolean responses are used to indicate whether the operation was successful.
 
-Setup
+## Setup
 
 1. Clone the repository
 
