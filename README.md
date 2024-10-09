@@ -7,7 +7,6 @@ This is a simple bank application built with Node.js and TypeScript. It allows a
 ## Project Structure
 
 ```
-/coding-challenge-api
 |-- /src
 | |-- bank.ts
 | |-- bank.test.ts
@@ -33,7 +32,7 @@ Setup
 
 ```
 git clone git@github.com:jordanwoodroffe/autograb-bank-app.git
-cd coding-challenge-api
+cd autograb-bank-app
 ```
 
 2. Install dependencies:
