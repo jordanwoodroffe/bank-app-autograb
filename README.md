@@ -47,7 +47,7 @@ npm install
 npm test
 ```
 
-Explanation of Tests
+## Explanation of Tests
 
 - **bank.test.ts**: Contains all the tests for the bank application.
 - **add customer**: Tests adding a customer and checking their balance.
